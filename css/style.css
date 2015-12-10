@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  list-style: none;
+}
+
+#main-container {
+  text-align: center;
+}
+
+.logo img {
+  margin-top: 40px;
+}
+
+
+#section-1 {
+  text-align: center;
+}
+
+.play-btn {
+  margin: 30px auto;
+  width: 20px;
+  padding: 20px 40px;
+  background-color: #2ecc71;
+}
+
+
+.social-share-btn ul.socials li {
+  margin-top: 40px;
+  display: inline-block;
+}
+
+.email-form {
+  width: 50%;
+  margin: 50px auto;
+  text-align: center;
+}
+
+fieldset {
+  padding: 40px;
+}
+
+input[type="email"] {
+  display: inline-block;
+}
